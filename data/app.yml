@@ -1,0 +1,14 @@
+school:
+  name: 'Escola Exemplo'
+
+active_year: 2025
+
+classes:
+  - slug: '6-ano'
+    display_name: '6º Ano'
+  - slug: '7-ano'
+    display_name: '7º Ano'
+  - slug: '8-ano'
+    display_name: '8º Ano'
+  - slug: '9-ano'
+    display_name: '9º Ano'

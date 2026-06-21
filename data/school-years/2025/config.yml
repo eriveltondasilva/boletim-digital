@@ -1,0 +1,4 @@
+grading:
+  scale: 10
+  passing_grade: 6.0
+  bimesters: 4

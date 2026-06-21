@@ -1,0 +1,23 @@
+- student_uuid: 'a1b2c3d4-e5f6-7890-abcd-ef1234567890'
+  student_name: 'João da Silva'
+  bimesters:
+    - grade: 4.0
+      recovery: 7.0
+    - grade: 8.0
+      recovery: null
+    - grade: 5.5
+      recovery: null
+    - grade: 7.0
+      recovery: null
+
+- student_uuid: 'b2c3d4e5-f6a7-8901-bcde-f12345678901'
+  student_name: 'Maria Souza'
+  bimesters:
+    - grade: 6.0
+      recovery: null
+    - grade: 9.0
+      recovery: null
+    - grade: 7.5
+      recovery: null
+    - grade: 8.0
+      recovery: null

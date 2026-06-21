@@ -1,0 +1,24 @@
+subject_name: Língua Portuguesa
+students:
+  - student_uuid: a1b2c3d4-e5f6-7890-abcd-ef1234567890
+    student_name: João da Silva
+    bimesters:
+      - grade: 6.5
+        recovery: null
+      - grade: 3.8
+        recovery: 5.5
+      - grade: 4.8
+        recovery: null
+      - grade: 4.2
+        recovery: 5.2
+  - student_uuid: b2c3d4e5-f6a7-8901-bcde-f12345678901
+    student_name: Maria Souza
+    bimesters:
+      - grade: 8
+        recovery: null
+      - grade: 8
+        recovery: null
+      - grade: 8
+        recovery: null
+      - grade: 8
+        recovery: null
