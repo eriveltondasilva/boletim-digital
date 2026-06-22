@@ -6,7 +6,7 @@
     "dev": "bun run --bun next dev",
     "start": "bun run --bun next start",
     "build": "bun run --bun next build",
-    "build:index": "bun scripts/build-index.ts",
+    "sync-grades": "bun scripts/sync-grades.ts",
     "1xxx": "",
     "fmt:check": "bunx prettier --check . --cache",
     "fmt:fix": "bunx prettier --write . --cache",
