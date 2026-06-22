@@ -52,7 +52,7 @@ export const ClassStudentsSchema = z
   });
 
 export const BimesterGradeSchema = z.object({
-  grade: z.number().min(0).max(10),
+  grade: z.number().min(0).max(10).nullable(),
   recovery: z.number().min(0).max(10).nullable(),
 });
 
