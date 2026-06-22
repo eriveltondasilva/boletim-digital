@@ -9,23 +9,3 @@
 - code: 'his'
   name: 'História'
   teacher: 'Profa. Beatriz Rocha'
-
-- code: 'geo'
-  name: 'Geografia'
-  teacher: 'Profa. Beatriz Rocha'
-
-- code: 'cie'
-  name: 'Ciências'
-  teacher: 'Prof. Rafael Melo'
-
-- code: 'art'
-  name: 'Arte'
-  teacher: 'Profa. Juliana Pires'
-
-- code: 'efi'
-  name: 'Educação Física'
-  teacher: 'Prof. Marcos Teles'
-
-- code: 'ing'
-  name: 'Inglês'
-  teacher: 'Profa. Camila Ferreira'

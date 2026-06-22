@@ -1,23 +1,24 @@
-- student_uuid: 'a1b2c3d4-e5f6-7890-abcd-ef1234567890'
-  student_name: 'João da Silva'
-  bimesters:
-    - grade: 3.0
-      recovery: 5.0
-    - grade: 4.0
-      recovery: 5.5
-    - grade: 3.5
-      recovery: 5.0
-    - grade: 2.0
-      recovery: 4.0
-
-- student_uuid: 'b2c3d4e5-f6a7-8901-bcde-f12345678901'
-  student_name: 'Maria Souza'
-  bimesters:
-    - grade: 7.5
-      recovery: null
-    - grade: 7.5
-      recovery: null
-    - grade: 7.5
-      recovery: null
-    - grade: 7.5
-      recovery: null
+subject_name: História
+students:
+  - student_uuid: a1b2c3d4-e5f6-7890-abcd-ef1234567890
+    student_name: João da Silva
+    bimesters:
+      - grade: null
+        recovery: null
+      - grade: null
+        recovery: null
+      - grade: null
+        recovery: null
+      - grade: null
+        recovery: null
+  - student_uuid: b2c3d4e5-f6a7-8901-bcde-f12345678901
+    student_name: Maria Souza
+    bimesters:
+      - grade: null
+        recovery: null
+      - grade: null
+        recovery: null
+      - grade: null
+        recovery: null
+      - grade: null
+        recovery: null
