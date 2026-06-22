@@ -1,7 +1,13 @@
 import { join } from 'node:path';
 
+const DATA_ROOT = join(process.cwd(), 'data');
+
+export function getAppPath(): string {
+  return join(DATA_ROOT, 'app.yml');
+}
+
 export function getYearDir(year: number): string {
-  return join('data', 'school-years', String(year));
+  return join(DATA_ROOT, 'school-years', String(year));
 }
 
 export function getYearConfigPath(year: number): string {
